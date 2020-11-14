@@ -22,7 +22,7 @@ Tenho um longo caminho pela frente. Mas para iniciar a jornada é preciso dar o 
 
 Contato:
 
-Meu [LinkedIn] <a href="https://www.linkedin.com/in/valquiriapires01/"><img src="https://github.com/KyraPires/KyraPires/blob/main/images/linkedin.png" width="16"></img></a>
+Meu [LinkedIn](https://www.linkedin.com/in/valquiriapires01/)<a img src="https://github.com/KyraPires/KyraPires/blob/main/images/linkedin.png" width="16"></img></a>
 
 Email: pires.vro@gmail.com
 
