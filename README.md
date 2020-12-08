@@ -12,7 +12,10 @@
 
 # Boas vindas! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba. Atuo nas áreas da Ciência e Tecnologia desde 2005. Durante o mestrado trabalhei com Geotecnologias e análise de dados estatísticos para o desenvolvimento de pesquisas relacionadas ao meio ambiente, resultando em 1 capítulo de livro e 3 publicações em revista científica. Atualmente foco meus estudos em tecnologias voltadas à Ciência de Dados.
+Sou uma bióloga apaixonada por tecnologia! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba. Durante o mestrado trabalhei com Geotecnologias e análise de dados estatísticos para o desenvolvimento de pesquisas relacionadas ao meio ambiente.
+
+Atuo como organizadora das comunidades Pyladies Sorocaba e RanchoDev! Sempre engajada nas comunidades de tecnologias e viciada nos eventos, principalmente aqueles voltados a mulheres como Woman in Data Science, Pyladies, AI Girls, Programaria, Elas Programam entre muitos outros!
+
 
 Quando eu crescer quero ser uma cientista de dados! :satisfied: Para isso estou estudando :books: o bootcamp do DataCamp: ["Data Scientist with Python"](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=5). E aproveitando outros cursos que surgem na comunidade como complemento.
 
