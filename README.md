@@ -3,8 +3,8 @@
 
 # :speech_balloon: Sobre mim
 
-Sou uma bióloga apaixonada por dados! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba.
-Durante o mestrado trabalhei com Geotecnologias e análise de dados estatísticos para o desenvolvimento de pesquisas relacionadas ao meio ambiente.
+Sou uma bióloga orientada a dados! Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba.
+Durante o mestrado trabalhei com Geotecnologias e análise de dados estatísticos para o desenvolvimento de pesquisas direcionadas a tomadores de decisão. E atualmente estudo as tecnologias voltadas a Ciência de Dados!
 
 ---
 # :raising_hand:  Comunidade
