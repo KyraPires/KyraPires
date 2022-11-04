@@ -5,7 +5,7 @@
 
 Uma bióloga orientada a dados! 🎲 E estudante de Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba.
 
-Estou atualmente como estagiária na área de Advanced Analytics na Imagem Geosistemas.  Atuei com Geotecnologias e análise de dados estatísticos para o desenvolvimento de pesquisas direcionadas a tomadores de decisão durante o mestrado.
+Analista de Dados na área de Advanced Analytics na Imagem Geosistemas.  Atuei com Geotecnologias e análise de dados estatísticos para o desenvolvimento de pesquisas direcionadas a tomadores de decisão durante o mestrado.
 
 ---
 # :raising_hand:  Comunidade
