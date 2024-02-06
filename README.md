@@ -6,7 +6,16 @@
 ## Uma bióloga orientada a dados! 🎲
 
 
-<p>Graduei-me em Ciências Biológicas pela Universidade Paulista (UNIP) - Sorocaba e obtive o título de Mestra em Sustentabilidade na Gestão Ambiental pela UFSCar - Sorocaba. Cursei Análise e Desenvolvimento de Sistemas na Fatec, onde iniciei meus primeiros passos na Tecnologia da Informação. Atualmente, desempenho o papel de Analista de Dados na Imagem Geosistemas, na área de Advanced Analytics. Minha atuação concentra-se no uso de Geotecnologias e Inteligência Artificial para desenvolver soluções inovadoras de inteligência geográfica, destinadas a auxiliar tomadores de decisão em diversos contextos.</p>
+<p>Graduei-me em Ciências Biológicas pela Universidade Paulista (UNIP) - Sorocaba e obtive o título de Mestra em Sustentabilidade na Gestão Ambiental pela UFSCar - Sorocaba. Cursei Análise e Desenvolvimento de Sistemas na Fatec, onde iniciei meus primeiros passos na Tecnologia da Informação. Atualmente, desempenho o papel de Analista de Dados na Imagem Geosistemas, na área de Advanced Analytics. Minha atuação concentra-se em utilizar algoritmos de aprendizado de máquina e outras técnicas de IA para extrair padrões, identificar tendências e realizar análises complexas em conjuntos de dados espaciais. Tendo como foco criar soluções avançadas como sistemas de suporte à decisão, modelagem preditiva de eventos espaciais, detecção de padrões em imagens de satélite e aplicação de tecnologias de gêmeos digitais.</p>
+
+🌐 Especializada na aplicação de técnicas avançadas de Geotecnologias.  
+🤖 Utilizo Inteligência Artificial para desenvolver soluções inovadoras em análise geoespacial.  
+🗺️ Profundo entendimento na interpretação e manipulação de dados geográficos.  
+📊 Desenvolvo e implemento algoritmos para otimizar processos de análise.  
+🌍 Colaboro na criação de soluções direcionadas a tomadores de decisão.  
+🛰️ Experiência em sensoriamento remoto e interpretação de imagens de satélite.  
+📈 Contribuo em projetos para a transformação digital em setores como mineiração, energia, agro e meio ambiente.  
+💻 Apaixonada por transformar dados geoespaciais em insights valiosos.  
 
 ---
 
