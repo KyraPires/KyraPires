@@ -3,15 +3,12 @@
 
 # :speech_balloon: Sobre mim
 
-Uma bióloga orientada a dados! 🎲 E estudante de Análise e Desenvolvimento de Sistemas na Fatec de Sorocaba.
-
-Analista de Dados na área de Advanced Analytics na Imagem Geosistemas.  Atuei com Geotecnologias e análise de dados estatísticos para o desenvolvimento de pesquisas direcionadas a tomadores de decisão durante o mestrado.
-
+Uma bióloga orientada a dados! 🎲 
+Graduei-me em Ciências Biológicas pela Universidade Paulista (UNIP) - Sorocaba e obtive o título de Mestra em Sustentabilidade na Gestão Ambiental pela UFSCar - Sorocaba. Cursei Análise e Desenvolvimento de Sistemas na Fatec, onde iniciei meus primeiros passos na Tecnologia da Informação Atualmente, desempenho o papel de Analista de Dados na Imagem Geosistemas, na área de Advanced Analytics. Minha atuação concentra-se no uso de Geotecnologias e Inteligência Artificial para desenvolver soluções inovadoras de inteligência geográfica, destinadas a auxiliar tomadores de decisão em diversos contextos.
 ---
 # :raising_hand:  Comunidade
 
 Sou uma Pylady do capítulo Pyladies Sorocaba
-Sempre engajada nas comunidades de tecnologias e viciada em eventos, principalmente aqueles que apoiam a entrada de mais mulheres na área de TI.
 
 Minha palestra sobre Visualização de Dados você pode ver [aqui](https://www.youtube.com/watch?v=RG6sSyjhO7U). Foi um evento sediado pela Pyladies Sorocaba
 
