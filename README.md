@@ -6,8 +6,11 @@
 ## Uma bióloga orientada a dados! 🎲
 
 
-<p>Graduei-me em Ciências Biológicas pela Universidade Paulista (UNIP) - Sorocaba e obtive o título de Mestra em Sustentabilidade na Gestão Ambiental pela UFSCar - Sorocaba. Cursei Análise e Desenvolvimento de Sistemas na Fatec, onde iniciei meus primeiros passos na Tecnologia da Informação. Atualmente, continuo meus estudos cursando pós-graduação em Machine Learning Engineering pela Fiap.</p>
-<p>Hoje atuo como Analista de Dados na Imagem Geosistemas, na área de Advanced Analytics. Minha atuação concentra-se em utilizar algoritmos de aprendizado de máquina e outras técnicas de IA para extrair padrões, identificar tendências e realizar análises complexas em conjuntos de dados espaciais. Tendo como foco criar soluções avançadas como sistemas de suporte à decisão, modelagem preditiva de eventos espaciais, detecção de padrões em imagens de satélite e aplicação de tecnologias de gêmeos digitais.</p>
+<p>Cientista de Dados na área de Advanced Analytics, utilizando algoritmos de aprendizado de máquina e técnicas de IA para transformar dados espaciais em insights estratégicos. Minha trajetória inclui uma sólida formação acadêmica e experiência prática na área de ciências ambientais e tecnologia.</p>
+
+<p>Formada em Ciências Biológicas pela Universidade Paulista (UNIP) e Mestra em Sustentabilidade na Gestão Ambiental pela UFSCar. Cursei Análise e Desenvolvimento de Sistemas na Fatec, onde iniciei meus primeiros passos na Tecnologia da Informação. Atualmente, estou cursando pós-graduação em Machine Learning Engineering pela Fiap, aplicando técnicas avançadas em modelagem preditiva e análise de dados geoespaciais.</p>
+
+<p>Minha atuação concentra-se em criar soluções avançadas como sistemas de suporte à decisão, modelagem preditiva de eventos espaciais, detecção de padrões em imagens de satélite e aplicação de tecnologias de gêmeos digitais. Desenvolvi um sistema de suporte à decisão que aumentou em 30% a eficiência na detecção de padrões de desmatamento. Utilizo ferramentas como Python (Pandas, Scikit-learn) e ArcGIS para análise e interpretação de dados geográficos.</p>
 
 🌐 Especializada na aplicação de técnicas avançadas de Geotecnologias.  
 🤖 Utilizo Inteligência Artificial para desenvolver soluções inovadoras em análise geoespacial.  
