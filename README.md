@@ -6,7 +6,7 @@
 ## Uma bióloga orientada a dados! 🎲
 
 
-<p>Cientista de Dados na área de Advanced Analytics, utilizando algoritmos de aprendizado de máquina e técnicas de IA para transformar dados espaciais em insights estratégicos. Minha trajetória inclui uma sólida formação acadêmica e experiência prática na área de ciências ambientais e tecnologia.</p>
+<p>Cientista de Dados especialista em transformar dados espaciais em insights estratégicos, utilizando algoritmos de aprendizado de máquina e técnicas de IA. Minha trajetória inclui uma sólida formação acadêmica e experiência prática na área de ciências ambientais e tecnologia.</p>
 
 <p>Formada em Ciências Biológicas pela Universidade Paulista (UNIP) e Mestra em Sustentabilidade na Gestão Ambiental pela UFSCar. Cursei Análise e Desenvolvimento de Sistemas na Fatec, onde iniciei meus primeiros passos na Tecnologia da Informação. Atualmente, estou cursando pós-graduação em Machine Learning Engineering pela Fiap, aplicando técnicas avançadas em modelagem preditiva e análise de dados geoespaciais.</p>
 
